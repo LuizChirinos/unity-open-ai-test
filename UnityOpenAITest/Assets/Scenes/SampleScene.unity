@@ -651,9 +651,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 734840862}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b94601a4f0a4b8d42b3b821834e0adca, type: 3}
+  m_Script: {fileID: 11500000, guid: 5688123a128051e4aa5a347d4639d9d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  url: localhost:3000
+  openAIConfig: {fileID: 11400000, guid: 06c6988a1a72f6d4992d76ebee20ba5c, type: 2}
   inputField: {fileID: 1956609625}
   resultText: {fileID: 603034590}
   buttonConfirm: {fileID: 1833344269}
